@@ -19,10 +19,10 @@ Here are some screenshots of my project
 <h2>BOM</h2>
 
 Here is everything I should need
-
-2x 5mm LED red
-2x R-Axial-0.6
-1x CR2032 battery cell holder
-1x Tactile switch
+<br>
+2x 5mm LED red <br>
+2x R-Axial-0.6<br>
+1x CR2032 battery cell holder<br>
+1x Tactile switch<br>
 
 1x breadboard kit for testing!
