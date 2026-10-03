@@ -5,15 +5,16 @@ Btw my slack username is lightwind
 
 I' kinda new to pcbs, made this using easyeda.
 
+<h2>Features</h2>
+This works by having a battery, and then a switch, when you press the switch, the LED's will light up!
+
 <h2>Screenshots</h2>
 
 Here are some screenshots of my project
-Schematics
-<img width="990" height="527" alt="Screenshot 2026-10-03 120450" src="https://github.com/user-attachments/assets/c3a0033a-3591-4d97-8fed-e4af74847c7c" />
-PCB
-<img width="837" height="398" alt="Screenshot 2026-10-03 120505" src="https://github.com/user-attachments/assets/02531c57-3592-4903-92f7-31aad3f35c8a" />
-3D view (hopefully the one i get will look as good as this!)
-<img width="1217" height="632" alt="Screenshot 2026-10-03 120530" src="https://github.com/user-attachments/assets/79ae5d1e-cb37-4e26-a25e-cd4a6888bed8" />
+<img width="855" height="527" alt="Screenshot 2026-10-03 142013" src="https://github.com/user-attachments/assets/a1d61dbf-d311-465e-a5d9-00572b961fda" />
+<img width="962" height="507" alt="Screenshot 2026-10-03 142017" src="https://github.com/user-attachments/assets/d2fa5808-f6b2-43f1-99f0-53b69506975b" />
+<img width="1148" height="698" alt="Screenshot 2026-10-03 142026" src="https://github.com/user-attachments/assets/5b970c00-9273-49aa-a450-3e35b4f44a3a" />
+<img width="1173" height="656" alt="Screenshot 2026-10-03 142031" src="https://github.com/user-attachments/assets/d752398f-97f0-4d87-857c-74e7ceb57497" />
 
 <h2>BOM</h2>
 
@@ -22,3 +23,6 @@ Here is everything I should need
 2x 5mm LED red
 2x R-Axial-0.6
 1x CR2032 battery cell holder
+1x Tactile switch
+
+1x breadboard kit for testing!
