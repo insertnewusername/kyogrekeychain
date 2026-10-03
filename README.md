@@ -24,6 +24,6 @@ Here is everything I should need
 2x R-Axial-0.6<br>
 1x CR2032 battery cell holder<br>
 1x Tactile switch<br>
-1x 5 doller grant
+1x 5.20 doller grant for jlcpcb
 
 1x breadboard kit for testing!
