@@ -3,7 +3,7 @@
 This is a keychain I made for solder!
 Btw my slack username is lightwind
 
-I' kinda new to pcbs, made this using easyeda.
+I' kinda new to pcbs, made this using easyeda. It's a kyogre keychain that lights up!
 
 <h2>Features</h2>
 This works by having a battery, and then a switch, when you press the switch, the LED's will light up!
@@ -24,5 +24,6 @@ Here is everything I should need
 2x R-Axial-0.6<br>
 1x CR2032 battery cell holder<br>
 1x Tactile switch<br>
+1x 5 doller grant
 
 1x breadboard kit for testing!
